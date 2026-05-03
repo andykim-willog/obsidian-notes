@@ -1,0 +1,11 @@
+# Obsidian 자동생성 파일
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
